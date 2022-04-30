@@ -1,4 +1,12 @@
 a)
+Da Systeme, auf denen diese Algorithmen, Modelle, usw. ausgeführt werden, immer Beschränkungen bezüglich Hardware und Software mit sich bringen. Somit ist ein Algorithmus gewünscht, der die beste Performance, bei geringster Komplexität liefert. Um diesen Algorithmus zu finden, muss er mit anderen verglichen werden.
+
 b)
+Reproduzierbarkeit bedeutet, dass Experimente mit selben Eingangsdaten, unabhängig von Ausführungszeitpunkt und Ausführungssystem, immer das selbe Ergebnis liefern
+
 c)
+1. Gleiche Versionsnummer der verwendeten Pakete
+2. Gleicher Random seed für alle verwendeten Pakete
+
 d)
+Siehe environment.yml
