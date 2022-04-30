@@ -9,6 +9,6 @@ conda env create -f environment.yml
 
 to create a new conda environment with our dependencies and:
 ```sh
-conda env remove -n psdag03
+conda activate psdag03
 ```
 to activate the environment.
